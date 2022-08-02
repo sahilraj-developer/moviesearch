@@ -1,0 +1,22 @@
+ http://www.omdbapi.com/apikey.aspx?VERIFYKEY=5b554397-2b2d-4fd9-8491-1a3fcd682cd3
+
+
+ http://www.omdbapi.com/?i=tt3896198&apikey=f6b4f690
+
+
+ http://img.omdbapi.com/?apikey=[yourkey]&
+
+
+  http://img.omdbapi.com/?apikey=tt3896198&apikey=f6b4f690&s=titanic
+
+   http://img.omdbapi.com/?apikey=f6b4f690&s=titanic
+
+
+
+http://www.omdbapi.com/?apikey=f6b4f690&s=titanic
+
+
+http://www.omdbapi.com/?i=tt3896198&apikey=f6b4f690
+
+
+https://github.com/thapatechnical/moviewebsite/tree/master/src
